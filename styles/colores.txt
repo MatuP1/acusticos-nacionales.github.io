@@ -1,0 +1,4 @@
+#fdfde1 //amarillo casi blanco
+#ece87a //amarillito claro
+#f0c346 // amarillo fuerte mostaza suave
+#1d1c18 //negro chill
